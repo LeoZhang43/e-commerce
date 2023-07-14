@@ -4,6 +4,7 @@ const HomePage = () => {
   return(
     <div>
       <Hero />
+      <FeaturedProducts />
       <Services />
       <Contact />
     </div>

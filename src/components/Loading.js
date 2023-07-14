@@ -1,7 +1,12 @@
 import React from 'react'
 
 const Loading = () => {
-  return <h4>loading element</h4>
+  return (
+    <div className='section section-center text-center'>
+      <h2>loading...</h2>
+    </div>
+  )
+  
 }
 
 export default Loading
