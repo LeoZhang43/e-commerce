@@ -28,7 +28,7 @@ const Hero = () => {
 }
 
 const Wrapper = styled.section`
-  min-height: 123vh;
+  min-height: 30vh;
   display: grid;
   place-items: center;
   .img-container {
